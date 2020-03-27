@@ -1,0 +1,21 @@
+ABC1234
+Fiat uno
+0
+42000
+5.0
+80.0
+lanterna fraca
+AAA3333
+Ford Focus
+0
+41000
+5.0
+100.0
+banco de couro
+BBB1111
+Chevrolet Onix
+0
+70000
+9.0
+120.0
+central multimidia
